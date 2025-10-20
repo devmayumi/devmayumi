@@ -2,10 +2,10 @@
 
 **`Desenvolvedora FullStack`**
 
-👋 Olá! Sou Laís Mayumi, desenvolvedora Full Stack com formação em Tecnologia da Informação pela UFMS.
-🚀 Tenho experiência em Java (Java EE, Spring Boot), AngularJS, HTML, CSS, JavaScript, e Bootstrap, além de atuação com BIRT e Payara.
-💡 Gosto de unir lógica e criatividade para desenvolver soluções completas, funcionais e com uma boa experiência visual.
-📚 Atualmente, estou focada em aprimorar minhas habilidades em desenvolvimento full stack e boas práticas de código.
+<p>👋 Olá! Sou Laís Mayumi, desenvolvedora Full Stack com formação em Tecnologia da Informação pela UFMS.</p>
+<p>🚀 Tenho experiência em Java (Java EE, Spring Boot), AngularJS, HTML, CSS, JavaScript, e Bootstrap, além de atuação com BIRT e Payara.</p>
+<p>💡 Gosto de unir lógica e criatividade para desenvolver soluções completas, funcionais e com uma boa experiência visual.</p>
+<p>📚 Atualmente, estou focada em aprimorar minhas habilidades em desenvolvimento full stack e boas práticas de código.</p>
 
 <p align="left">
     <a href="https://github.com/devmayumi?tab=repositories&sort=stargazers">
